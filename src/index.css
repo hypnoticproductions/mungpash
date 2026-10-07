@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    background-color: #121413;
+    color: #eae6df;
+  }
+  
+  /* Custom sleek scrollbar for clinical tranquil dashboards */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #141615;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #2a2f2b;
+    border-radius: 9999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #3b443d;
+  }
+}

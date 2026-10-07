@@ -1,0 +1,6 @@
+{
+  "name": "SomaKinetic - Clinical Orthopedic & Holistic Bodywork Engine",
+  "description": "Expert Clinical Orthopedic Bodywork & Holistic Integrative Therapist Engine synthesizing Western biomechanics, trigger points, TCM meridians, and Thai Sib Sen lines with rapid table protocols.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
